@@ -1,5 +1,5 @@
 Hello world
-Third change is here after squash merge
+
 
 Let's test this file
 make some changes
